@@ -1,1 +1,14 @@
-{"Name":"PD De Novo: Resting State fMRI and Physiological Signals","BIDSVersion":"1.0.2","License":"CC BY-NC-ND 4.0","Authors":["Carlo Tessa","",""],"HowToAcknowledge":"","DatasetDOI":"","ReferencesAndLinks":[]}
+{
+    "Name": "PD De Novo: Resting State fMRI and Physiological Signals",
+    "License": "CC BY-NC-ND 4.0",
+    "Authors": [
+        "Carlo Tessa",
+        ""
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": "",
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.2"
+}
