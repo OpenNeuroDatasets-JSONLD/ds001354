@@ -11,7 +11,7 @@
         "Units": "years"
     },
     "gender": {
-        "Description": "biological sex of the participant",
+        "Description": "gender of the participant",
         "Levels": {
             "m": "male",
             "f": "female"
